@@ -1,0 +1,13 @@
+Time :{int(time.time())},bot connection
+04/20/22, :21/46/19 bot connection
+04/20/22, :22/08/38 bot connection
+04/20/22, :22/08/38,connection:{self.message}
+04/20/22, :22/08/38,connection:{self.message}
+04/20/22, :22/16/36 bot connection
+04/20/22, :22/22/24 bot connection
+04/20/22, :22/22/24connection:<Message id=966433775053586483 channel=<TextChannel id=959385156123234352 name='général' position=5 nsfw=False news=False category_id=959385156123234351> type=<MessageType.default: 0> author=<Member id=959383582164549682 name='bot_tp4' discriminator='3088' bot=True nick=None guild=<Guild id=959385156123234345 name='Serveur de tp4' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>04/20/22, :22/22/24connection:<Message id=966433773765951569 channel=<TextChannel id=959385156123234352 name='général' position=5 nsfw=False news=False category_id=959385156123234351> type=<MessageType.default: 0> author=<Member id=688906218495934560 name='Leelyan_B' discriminator='5930' bot=False nick=None guild=<Guild id=959385156123234345 name='Serveur de tp4' shard_id=None chunked=False member_count=2>> flags=<MessageFlags value=0>>04/20/22, :22/24/03 bot connection
+04/20/22, :22/24/03messagehello04/20/22, :22/24/03messageHello guy04/20/22, :22/24/03messagehello04/20/22, :22/24/03messageHello guy04/20/22, :22/30/16 bot connection
+04/20/22, :22/31/52 bot connection
+04/20/22, :22/39/39 bot connection
+04/20/22, :22/46/25 bot connection
+04/20/22, :22/46/25messageHello guy
